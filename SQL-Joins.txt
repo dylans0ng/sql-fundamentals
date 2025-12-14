@@ -1,5 +1,0 @@
-INSERT INTO bookstore_employees (employee_id, name, location, role, employment_type, hourly_rate, hire_date, term_date) 
-VALUES (998, "Bob", "YYC-DT", "Store Manager", "PERM", 30.5, 2020-03-05, NULL);
-
-INSERT INTO bookstore_employees (employee_id, name, location, role, employment_type, hourly_rate, hire_date, term_date) 
-VALUES (998, "Bob", "YYC-DT", "Store Manager", "PERM", 30.5, 2020-03-05, NULL);
